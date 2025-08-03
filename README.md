@@ -3,12 +3,6 @@
 An interactive **Periodic Table** built with **Flutter** for Web & Mobile.  
 Includes hover effects, gradient text, responsive layout, and dialog boxes for element details.
 
-
-# 🌟 Periodic Table Flutter App
-
-An interactive **Periodic Table** built with **Flutter** for Web & Mobile.  
-Includes hover effects, gradient text, responsive layout, and dialog boxes for element details.
-
 ---
 
 ## 📖 About the Periodic Table
