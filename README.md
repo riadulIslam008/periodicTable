@@ -3,6 +3,29 @@
 An interactive **Periodic Table** built with **Flutter** for Web & Mobile.  
 Includes hover effects, gradient text, responsive layout, and dialog boxes for element details.
 
+
+# 🌟 Periodic Table Flutter App
+
+An interactive **Periodic Table** built with **Flutter** for Web & Mobile.  
+Includes hover effects, gradient text, responsive layout, and dialog boxes for element details.
+
+---
+
+## 📖 About the Periodic Table
+
+The **Periodic Table of Elements** is a chart organizing chemical elements by:
+- **Atomic number** (protons)
+- **Electron configuration**
+- **Chemical properties**
+
+### Blocks:
+- **s-block** → Groups 1–2 (and Helium)
+- **p-block** → Groups 13–18
+- **d-block** → Transition metals
+- **f-block** → Lanthanides and actinides
+
+This app makes exploring the periodic table **visual, interactive, and responsive**.
+
 ---
 
 ## ✨ Features
@@ -17,7 +40,7 @@ Includes hover effects, gradient text, responsive layout, and dialog boxes for e
 ---
 
 ## 📂 Folder Structure
-
+````
 lib/
 │
 ├── core/ # Core configurations and utilities
@@ -56,7 +79,7 @@ lib/
 │
 └── main.dart # App entry point
 
-
+````
 ---
 
 ## 📦 Dependencies
