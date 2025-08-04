@@ -33,6 +33,24 @@ This app makes exploring the periodic table **visual, interactive, and responsiv
 
 ---
 
+---
+## 📷 Screenshots
+
+### 💻 Web View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riadulIslam008/images/refs/heads/main/periodic%20table/periodictable-1.webp" width="45%">
+  <img src="https://raw.githubusercontent.com/riadulIslam008/images/refs/heads/main/periodic%20table/periodictable-2.webp" width="45%">
+</p>
+
+### 📱 Mobile View
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riadulIslam008/images/refs/heads/main/periodic%20table/periodictable-3.webp" width="30%">
+  <img src="https://raw.githubusercontent.com/riadulIslam008/images/refs/heads/main/periodic%20table/periodictable-4.webp" width="30%">
+  <img src="https://raw.githubusercontent.com/riadulIslam008/images/refs/heads/main/periodic%20table/periodictable-5.webp" width="30%">
+  <img src="https://raw.githubusercontent.com/riadulIslam008/images/refs/heads/main/periodic%20table/periodictable-6.webp" width="30%">
+</p>
+---
+
 ## 📂 Folder Structure
 ````
 lib/
